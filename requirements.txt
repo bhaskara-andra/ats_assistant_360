@@ -1,0 +1,6 @@
+streamlit
+langchain
+GoogleGenerativeAI  # Replace with the specific library/package name if different
+python-dotenv
+scikit-learn
+textract
